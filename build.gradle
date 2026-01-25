@@ -47,6 +47,9 @@ dependencies {
     // H2
     testImplementation 'com.h2database:h2'
 
+    // PostgreSQL
+    runtimeOnly 'org.postgresql:postgresql:42.7.3'
+
 
 }
 
