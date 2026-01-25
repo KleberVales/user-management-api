@@ -9,4 +9,4 @@
 
     - Uso de DTOs e validações com Bean Validation.
 
-    - Deploy em AWS ou Heroku para treinar ambiente de produção
+    - Deploy em AWS ou Heroku 
