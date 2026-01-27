@@ -45,3 +45,7 @@ src/main/java
 └── config
 
 ```
+
+## 🔐 Validações
+
+
