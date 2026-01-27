@@ -17,3 +17,4 @@
 
  - Cadastro de usuários
  - Login/autenticação
+ - Atualização de perfil
