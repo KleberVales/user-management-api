@@ -59,4 +59,13 @@ Isso garante integridade dos dados antes do processamento.
 
 ## 🚀 Endpoints Principais 
 
+| Método  |	Endpoint |	Descrição |
+|---------|----------|------------|
+| POST	 | /users/register | Cadastro de usuário |
+| POST	 | /users/login | Login do usuário |
+| PUT	| /users/{id} |	Atualização de perfil |
+
+
+
+
 
