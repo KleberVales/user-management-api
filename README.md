@@ -31,3 +31,5 @@
 - Spring Data JPA
 - Banco de dados relacional (ex: MySQL/PostgreSQL)
 - Maven ou Gradle
+
+## 📂 Estrutura do Projeto
