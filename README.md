@@ -33,3 +33,15 @@
 - Maven ou Gradle
 
 ## 📂 Estrutura do Projeto
+
+```text
+
+src/main/java
+├── controller
+├── service
+├── repository
+├── dto
+├── model
+└── config
+
+```
