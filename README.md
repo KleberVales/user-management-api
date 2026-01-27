@@ -21,3 +21,5 @@
  - Validação de dados com Bean Validation
  - Uso de DTOs para entrada e saída de dados
  - API RESTful
+
+## 🛠️ Tecnologias Utilizadas
