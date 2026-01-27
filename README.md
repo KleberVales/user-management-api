@@ -9,4 +9,6 @@
 
     - Uso de DTOs e validações com Bean Validation.
 
-    - Deploy em AWS ou Heroku 
+    - Deploy em AWS ou Heroku
+
+ API REST para cadastro, autenticação (login) e atualização de perfis de usuários, desenvolvida seguindo boas práticas de arquitetura, validação de dados e organização de código.
