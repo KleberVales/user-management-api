@@ -27,3 +27,4 @@
 - Java
 - Spring Boot
 - Spring Web
+- Spring Validation (Bean Validation)
