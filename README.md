@@ -53,5 +53,6 @@ As requisições utilizam DTOs com anotações de validação, como:
 - @NotBlank
 - @Email
 - @Size
+- @NotNull
 
 
