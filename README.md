@@ -18,3 +18,4 @@
  - Cadastro de usuários
  - Login/autenticação
  - Atualização de perfil
+ - Validação de dados com Bean Validation
