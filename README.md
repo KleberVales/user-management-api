@@ -14,3 +14,5 @@
  API REST para cadastro, autenticação (login) e atualização de perfis de usuários, desenvolvida seguindo boas práticas de arquitetura, validação de dados e organização de código.
 
  ## 📌 Funcionalidades
+
+ - Cadastro de usuários
