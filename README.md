@@ -16,3 +16,4 @@
  ## 📌 Funcionalidades
 
  - Cadastro de usuários
+ - Login/autenticação
