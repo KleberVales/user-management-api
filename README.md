@@ -23,3 +23,5 @@
  - API RESTful
 
 ## 🛠️ Tecnologias Utilizadas
+
+- Java
