@@ -28,3 +28,4 @@
 - Spring Boot
 - Spring Web
 - Spring Validation (Bean Validation)
+- Spring Data JPA
