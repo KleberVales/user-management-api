@@ -55,4 +55,6 @@ As requisições utilizam DTOs com anotações de validação, como:
 - @Size
 - @NotNull
 
+Isso garante integridade dos dados antes do processamento.
+
 
