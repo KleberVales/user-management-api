@@ -68,5 +68,3 @@ Isso garante integridade dos dados antes do processamento.
 
 ---
 
-Kleber 
-
