@@ -66,5 +66,3 @@ Isso garante integridade dos dados antes do processamento.
 | PUT	| /users/{id} |	Atualização de perfil |
 
 
----
-
