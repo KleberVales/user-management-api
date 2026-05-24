@@ -62,4 +62,4 @@ Isso garante integridade dos dados antes do processamento.
 | Método  |	Endpoint |	Descrição |
 |---------|----------|------------|
 | POST	 | /users/register | Cadastro de usuário |
-| POST	 | /users/login | Login do usuário |
+| POST	 | /users/login | Login 
