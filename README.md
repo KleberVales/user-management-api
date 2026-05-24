@@ -63,4 +63,3 @@ Isso garante integridade dos dados antes do processamento.
 |---------|----------|------------|
 | POST	 | /users/register | Cadastro de usuário |
 | POST	 | /users/login | Login do usuário |
-| PUT	|
