@@ -59,4 +59,4 @@ Isso garante integridade dos dados antes do processamento.
 
 ## 🚀 Endpoints Principais 
 
-| Método  |	Endpoint |	Descrição |
+| Método  |	Endpoint |	
