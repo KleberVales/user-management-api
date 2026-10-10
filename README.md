@@ -56,5 +56,3 @@ As requisições utilizam DTOs com anotações de validação, como:
 - @NotNull
 
 Isso garante integridade dos dados antes do processamento.
-
-## 🚀 
