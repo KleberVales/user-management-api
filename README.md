@@ -48,4 +48,4 @@ src/main/java
 
 ## 🔐 Validações
 
-As requisições utilizam DTOs com anotações 
+As requisições utilizam DTOs com 
