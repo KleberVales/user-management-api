@@ -48,4 +48,4 @@ src/main/java
 
 ## 🔐 Validações
 
-As requisições utilizam 
+As requisições
