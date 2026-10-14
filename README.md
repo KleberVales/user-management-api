@@ -47,5 +47,3 @@ src/main/java
 ```
 
 ## 🔐 Validações
-
-As requisições
