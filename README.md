@@ -48,9 +48,4 @@ src/main/java
 
 ## 🔐 Validações
 
-As requisições utilizam DTOs com anotações de validação, como:
-
-- @NotBlank
-
-
-
+As requisições utilizam DTOs com anotações de validação
